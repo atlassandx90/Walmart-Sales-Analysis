@@ -95,8 +95,8 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 If you like this project or want to collaborate, feel free to connect:
 
-- [LinkedIn](https://www.linkedin.com/)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/abhijeetroy9)
+- [GitHub](https://github.com/atlassandx90)
 
 ---
 
