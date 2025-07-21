@@ -69,9 +69,10 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 ## 📁 Project Structure
 
-     Walmart-Sales-Analysis/ ├── Walmart_Sales_Analysis.ipynb  ← Google Colab notebook
-     ├── Walmart_Sales.csv    ← Sales dataset (2010–2012) 
-     ├── README.md                     ← Project documentation
+     Walmart-Sales-Analysis/
+├── Walmart_Sales_Analysis.ipynb ← Google Colab notebook
+├── Walmart_Sales.csv ← Sales dataset (2010–2012)
+├── README.md ← Project documentation
 
 ---
 
