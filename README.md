@@ -1,8 +1,8 @@
-# 📊 Walmart Sales Performance & Revenue Optimization (2010–2012)
+# Walmart Sales Performance & Revenue Optimization (2010–2012)
 
 ![Walmart Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/2560px-Walmart_logo.svg.png)
 
-## 🧭 Project Overview
+## Project Overview
 
 This project analyzes Walmart's **weekly sales data (2010–2012)** to uncover insights into:
 
@@ -16,17 +16,17 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
-- 📈 Identify trends and patterns in sales  
-- 🏪 Find top-performing and underperforming stores  
-- 📅 Analyze holiday sales impact  
-- 💰 Understand how economic indicators (like CPI & unemployment) affect sales  
-- 📌 Recommend data-driven strategies for revenue growth
+- Identify trends and patterns in sales  
+- Find top-performing and underperforming stores  
+- Analyze holiday sales impact  
+- Understand how economic indicators (like CPI & unemployment) affect sales  
+- Recommend data-driven strategies for revenue growth
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## Tools & Technologies Used
 
 | Tool | Purpose |
 |------|---------|
@@ -38,36 +38,36 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-### 🔹 1. Sales Trends
+### 1. Sales Trends
 - Seasonal sales spikes occur near specific months, especially around holidays.
 - No major long-term increase or decline from 2010–2012.
 
-### 🔹 2. Top-Performing Stores
+### 2. Top-Performing Stores
 - Stores **#20, #4, and #14** consistently generate the highest revenue.
 - Top stores account for a disproportionately high share of total sales.
 
-### 🔹 3. Holiday Sales Insights
+### 3. Holiday Sales Insights
 - **95% of revenue** is from **non-holiday weeks**.
 - Holidays do **not significantly boost sales**, revealing an untapped marketing opportunity.
 
-### 🔹 4. Economic Factors
+### 4. Economic Factors
 - Slight positive correlation between **unemployment** and **sales**.
 - Suggests price-sensitive consumers prefer Walmart during economic downturns.
 
 ---
 
-## 📌 Strategic Recommendations
+## Strategic Recommendations
 
-- 🎯 **Replicate top store strategies** (location, promotions, customer experience) across low-performing stores.
-- 🎁 **Boost holiday campaigns** with stronger marketing, time-limited deals, and seasonal bundles.
-- 💵 **Expand value-based product lines** to attract budget-conscious customers during economic instability.
-- 📦 **Optimize inventory planning** using time series patterns to avoid overstocking/understocking.
+- **Replicate top store strategies** (location, promotions, customer experience) across low-performing stores.
+- **Boost holiday campaigns** with stronger marketing, time-limited deals, and seasonal bundles.
+- **Expand value-based product lines** to attract budget-conscious customers during economic instability.
+- **Optimize inventory planning** using time series patterns to avoid overstocking/understocking.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
      Walmart-Sales-Analysis/
 ├── Walmart_Sales_Analysis.ipynb ← Google Colab notebook
@@ -78,7 +78,7 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 ---
 
-## 📚 Learnings & Takeaways
+## Learnings & Takeaways
 
 - Hands-on experience in **real-world data analysis workflow**
 - Applied **EDA, time series trends, and business strategy thinking**
@@ -86,7 +86,7 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Perform **RFM segmentation** on customer-level data (if available)
 - Create **interactive dashboards** with Plotly or Tableau
@@ -94,7 +94,7 @@ It simulates a real-world data analytics task where a company wants to improve s
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 If you like this project or want to collaborate, feel free to connect:
 
@@ -103,4 +103,4 @@ If you like this project or want to collaborate, feel free to connect:
 
 ---
 
-> 📌 *This project is a part of my Data Analyst portfolio showcasing my ability to derive business insights from real datasets.*
+> *This project is a part of my Data Analyst portfolio showcasing my ability to derive business insights from real datasets.*
