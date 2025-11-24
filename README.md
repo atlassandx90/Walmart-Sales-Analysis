@@ -1,6 +1,6 @@
 # Walmart Sales Performance & Revenue Optimization (2010–2012)
 
-![Walmart Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/2560px-Walmart_logo.svg.png)
+![Walmart Banner] (https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/2560px-Walmart_logo.svg.png)
 
 ## Project Overview
 
