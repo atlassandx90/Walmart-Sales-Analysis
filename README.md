@@ -8,19 +8,19 @@ An end-to-end data analytics project that analyzes Walmart's historical weekly s
 
 ## Power BI Executive Dashboard
 
-![Power BI Dashboard](Images/02_Dashboard PowerBI.png)
+![Power BI Dashboard](Images/Dashboard%20PowerBI.png)
 
 ---
 
 ## Tableau Dashboard
 
-![Tableau Dashboard](Images/03 Dashboard Tableau.png)
+![Tableau Dashboard](Images/Dashboard%20Tableau.png)
 
 ---
 
 ## Sales Forecast Dashboard
 
-![Forecast Dashboard](Images/01 Business Forecast.png)
+![Forecast Dashboard](Images/Business%20Forecast.png)
 
 ---
 
@@ -126,68 +126,39 @@ Business Recommendations
 
 ---
 
-# Folder Structure
+## Folder Structure
 
-```
-
+```text
 Walmart-Sales-Analysis/
 
 │
-
 ├── Dataset/
-
-│ └── Walmart_Sales.csv
-
+│   └── Walmart_Sales.csv
 │
-
 ├── Python/
-
-│ ├── Walmart_Sales_Analysis.ipynb
-
-│ └── Walmart_Sales_Analysis_&_Forecasting.ipynb
-
+│   ├── Walmart_Sales_Analysis.ipynb
+│   └── Walmart_Sales_Analysis_&_Forecasting.ipynb
 │
-
 ├── SQL/
-
-│ └── Walmart Sales Analytics.sql
-
+│   └── Walmart Sales Analytics.sql
 │
-
 ├── Power BI/
-
-│ └── Walmart.pbix
-
+│   └── Walmart.pbix
 │
-
 ├── Tableau/
-
-│ ├── Walmart Sales Dashboard.twb
-
-│ └── Walmart Sales Dashboard__2208.twbr
-
+│   ├── Walmart Sales Dashboard.twb
+│   └── Walmart Sales Dashboard__2208.twbr
 │
-
 ├── Images/
-
-│ ├── 01_Dashboard PowerBI.png
-
-│ ├── 02_Dashboard Tableau.png
-
-│ ├── 03_Monthly Revenue Trend.png
-
-│ ├── 04_Top10 Stores.png
-
-│ ├── 05_Holiday Sales.png
-
-│ ├── 06_Temperature WeeklySales.png
-
-│ └── 07_Business Forecast.png
-
+│   ├── Dashboard PowerBI.png
+│   ├── Dashboard Tableau.png
+│   ├── Monthly Revenue Trend.png
+│   ├── Holiday Sales.png
+│   ├── Temperature WeeklySales.png
+│   ├── Top10 Stores.png
+│   └── Business Forecast.png
 │
-
 └── README.md
-
 ```
 
 ---
